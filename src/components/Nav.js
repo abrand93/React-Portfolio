@@ -8,7 +8,7 @@ function NavTabs({ currentPage, handlePageChange }) {
     <h1 className='h1'>Andrew Brandstrom</h1>
 
  
-    <ul className="nav nav-tabs" style={{backgroundColor:"#f77f00"}}>
+    <ul className="nav nav-tabs" style={{backgroundColor:"#eae2b7"}}>
       
       <li className="nav-item">
         <a
@@ -51,7 +51,7 @@ function NavTabs({ currentPage, handlePageChange }) {
       <li className="nav-item">
         <a
           href="#contact"
-          //  TODO: Add a comment explaining what this logic is doing
+ 
 
           onClick={() => handlePageChange('Contact')}
           className={currentPage === 'Contact' ? 'nav-link active' : 'nav-link'}
