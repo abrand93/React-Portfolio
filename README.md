@@ -30,8 +30,9 @@
   
   
 
-  ## Contributing
-    ![REACT](https://github.com/abrand93/React-Portfolio/assets/125417439/aeea1746-fdb6-4838-ab7e-1f2668411e53)
+  ## Sreen shots
+  
+![Screenshot 2023-08-06 122813](https://github.com/abrand93/React-Portfolio/assets/125417439/028b59f1-13ed-4554-bff7-2cbb968a5984)
 
 ![Screenshot 2023-08-06 122737](https://github.com/abrand93/React-Portfolio/assets/125417439/6eb51656-2418-4e14-a0ab-1f4014f52318)
 
