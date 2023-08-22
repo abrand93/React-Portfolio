@@ -11,6 +11,10 @@ export default function About() {
       <p> My name is Andrew Brandstrom. I’m starting my adventure in becoming a web developer. This is my
         portfolio. I'm a few weeks away from completing UofM coding bootcamp. 
 
+
+          
+
+
         
         
         
@@ -18,3 +22,6 @@ export default function About() {
     </div>
   );
 }
+
+
+       
