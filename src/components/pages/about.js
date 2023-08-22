@@ -13,10 +13,7 @@ export default function About() {
 
 
           
-        //   I’m currently a production supervisor for Trafera. I’ve
-        // worked there for 9 years. Once completing bootcamp I'm looking to make a caree change in to becoming a
-        // developer.
-        
+
 
         
         
@@ -25,3 +22,9 @@ export default function About() {
     </div>
   );
 }
+
+
+        //   I’m currently a production supervisor for Trafera. I’ve
+        // worked there for 9 years. Once completing bootcamp I'm looking to make a caree change in to becoming a
+        // developer.
+        
